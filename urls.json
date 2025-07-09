@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://autoriteitpersoonsgegevens.nl/over-deze-website/wijzigingen-op-deze-website",
+    "selector": "article.node-page-full",
+    "section_selector": "div.paragraph-text-lane__body-item.text-basic-html",
+    "heading_selector": "h2"
+  },
+  {
+    "rss": "https://edpb.europa.eu/feed/news_en"
+  }
+] 

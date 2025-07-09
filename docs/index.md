@@ -1,0 +1,57 @@
+<img src="logo.png" alt="Kimchi Sentinel Logo" width="200"/>
+
+# 🥬 Kimchi Sentinel – Change Monitoring Dashboard
+
+**Latest Update:** 2025-07-09 17:19 UTC
+
+---
+
+## 🗺️ Legend
+- 🟢 **Changed**: Content changed since last check
+- ✅ **No Change**: No change detected
+- 🔄 **First Check**: First time checking this item
+- _Section/Feed_: For websites, the section or update block; for RSS, the feed entry title
+- _Preview_: Snippet of the changed or monitored content
+
+---
+
+## 📚 Table of Contents
+- [https://autoriteitpersoonsgegevens.nl/over-deze-website/wijzigingen-op-deze-website](https://autoriteitpersoonsgegevens.nl/over-deze-website/wijzigingen-op-deze-website)
+  - [Kredietchecks (juli 2025)](#kredietchecks-juli-2025)
+- [https://edpb.europa.eu/feed/news_en](https://edpb.europa.eu/feed/news_en)
+  - [Targeted modifications of the GDPR: EDPB & EDPS welcome simplification of record keeping obligations and request further clarifications](#targeted-modifications-of-the-gdpr-edpb-&-edps-welcome-simplification-of-record-keeping-obligations-and-request-further-clarifications)
+
+---
+
+## 📊 Monitoring Summary
+
+| Source | Section/Feed | First Seen | Last Checked | Last Change | Status | Preview |
+|--------|--------------|------------|--------------|-------------|--------|---------|
+| [https://autoriteitpersoonsgegevens.nl/over-deze-website/wijzigingen-op-deze-website](https://autoriteitpersoonsgegevens.nl/over-deze-website/wijzigingen-op-deze-website) | Kredietchecks (juli 2025) | 2025-07-09 17:19 UTC | 2025-07-09 17:19 UTC | 2025-07-09 17:19 UTC | 🟢 Changed | Kredietchecks (juli 2025) De AP heeft de informatie over kredietchecks verduidelijkt en op dezelfde ... |
+| [https://edpb.europa.eu/feed/news_en](https://edpb.europa.eu/feed/news_en) | Targeted modifications of the GDPR: EDPB & EDPS welcome simplification of record keeping obligations and request further clarifications | 2025-07-09 17:19 UTC | 2025-07-09 17:19 UTC | 2025-07-09 17:19 UTC | 🟢 Changed | <p><strong>Brussels, 9 July 2025</strong> - The European Data Protection Board (EDPB) and European D... |
+
+---
+
+## 📝 Full Change History
+
+### Targeted modifications of the GDPR: EDPB & EDPS welcome simplification of record keeping obligations and request further clarifications – https://edpb.europa.eu/feed/news_en
+<a name="targeted-modifications-of-the-gdpr-edpb-&-edps-welcome-simplification-of-record-keeping-obligations-and-request-further-clarifications-httpsedpbeuropaeufeednews_en"></a>
+_Checked: 2025-07-09 17:19 UTC_  
+**Type:** RSS Feed  
+**Title:** Targeted modifications of the GDPR: EDPB & EDPS welcome simplification of record keeping obligations and request further clarifications  
+**Published:** Wed, 09 Jul 2025 14:00:00 +0200  
+> <p><strong>Brussels, 9 July 2025</strong> - The European Data Protection Board (EDPB) and European Data Protection Supervisor (EDPS) issued today a <a href="https://www.edpb.europa.eu/our-work-tools/our-documents/edpbedps-joint-opinion/edpb-edps-joint-opinion-012025-proposal_en" target="_blank">Joint Opinion on the European Commission’s Proposal for a Regulation amending certain regulations, including the GDPR</a>.&nbsp;</p> <p>The Proposal, part of the fourth simplification Omnibus, aims to simplify EU rules and reduce administrative burden, extending certain mitigating measures available for small and medium sized enterprises (SMEs) to small mid-cap enterprises (SMCs), and includes further simplification measures. &nbsp;</p> <p>The Proposal aims to modify Art.30 (5) GDPR, providing a derogation to the obligation to keep a record of data processing operations. Currently, this derogation only applies to enterprises and organisation under 250 employees, except in certain cases. Under the Proposal, the derogation would apply to an enterprise or organisation employing fewer than 750 people, unless the processing operation carried out is likely to result in a high risk to individuals’ rights and freedoms, within the meaning of Art.35 GDPR.&nbsp;</p> <p>In addition, the Proposal introduces a definition of SME and SMC in Art.4 GDPR and extends the scope of Art.40 (1) and 42 (1) GDPR to the SMCs, which refer to codes of conduct and certification. These tools are currently designed to help enterprises and organisations demonstrate compliance with the GDPR focusing on the specific needs of SMEs.&nbsp;</p> <blockquote><p><strong>Wojciech Wiewiórowski, EDPS, said:</strong> “We support the general objective of the Proposal to reduce the administrative burden for SMEs and SMCs as long as this does not lower the protection of individuals’ fundamental rights, in particular the rights to privacy and to the protection of personal data. To this end, we welcome that the proposed modifications to simplify and clarify the obligation to keep a record of processing are targeted and limited in nature, and do not affect the core principles and other obligations under the GDPR.” &nbsp;</p> </blockquote> <blockquote><p><strong>Anu Talus, EDPB Chair, said:</strong> “The EDPB supports the Proposal’s general objective to reduce the administrative burden for SMEs and SMCs and to ensure that, in practice, they can enjoy a derogation from the duty to keep records of processing activities. The current derogation did not always achieve its goal. At the same time, the record of processing activities is a useful tool to support compliance with other duties, such as the one of transparency or to give effect to data subject rights. The simplification will offer greater flexibility to SMEs and SMCs to choose the most appropriate method to be compliant.”</p> </blockquote> <p>As regard the organisations being subject to the derogation, considering that the Proposal impacts legislation in other policy areas, the EDPB and the EDPS expect further clarifications on why the new threshold of enterprises or organisations employing fewer than 750 persons would be more appropriate under the GDPR, rather than the threshold of 500 employees initially considered. In addition, the new exemption in Art. 30 (5) refers to ‘enterprises employing fewer than 750 employees’ without referring to the newly introduced definitions of SME and SMC, which also includes financial criteria. In order to ensure that the exemption will benefit SMEs and SMCs, the EDPB and the EDPS’s Joint Opinion recommends referring to the newly introduced definitions of SME and SMC.&nbsp;</p> <p>The EDPB and EDPS also ask the co-legislators to clarify in the Proposal that the term ‘organisation’, falling within the scope of the proposed derogation under Art.30 (5) GDPR, does not include public authorities and bodies. &nbsp;<br />&nbsp;</p>  
+
+---
+
+### Kredietchecks (juli 2025) – https://autoriteitpersoonsgegevens.nl/over-deze-website/wijzigingen-op-deze-website
+<a name="kredietchecks-juli-2025-httpsautoriteitpersoonsgegevensnlover-deze-websitewijzigingen-op-deze-website"></a>
+_Checked: 2025-07-09 17:19 UTC_  
+**Type:** Website Section  
+**Section:** Kredietchecks (juli 2025)  
+> Kredietchecks (juli 2025) De AP heeft de informatie over kredietchecks verduidelijkt en op dezelfde pagina informatie over handelsinformatiebureaus toegevoegd. Geautomatiseerde besluitvorming (mei 2025) Op deze website is een nieuwe pagina toegevoegd over automatische besluiten (geautomatiseerde besluitvorming). Gerechtvaardigd belang (april 2025) De interpretatie van de grondslag gerechtvaardigd belang die de AP aanhield, is onjuist. Dit bleek na een uitspraak van het Europese Hof van Justitie ...  
+
+---
+
+---
+Powered by [Kimchi Sentinel](https://github.com/KimchiLegal/Kimchi-Sentinel) 🥬
